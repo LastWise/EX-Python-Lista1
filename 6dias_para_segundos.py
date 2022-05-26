@@ -1,0 +1,1 @@
+data = float(input("Está é a data de hoje em dias/horas/segundos: "))
